@@ -11,5 +11,5 @@ I am a third-year student from [Fuzhou University](https://www.fzu.edu.cn/). I h
 
 I might take the civil service exam because I yearn for a peaceful and simple life.
 
-# How can find me
-[email](mailto:13960011478@163.com) /[github](https://github.com/Aidname) /[Wechat](../image/wechat.jpg) /[blog](https://www.cnblogs.com/Aidname)
+
+[email](mailto:13960011478@163.com) /[github](https://github.com/Aidname) /[Wechat](../images/wechat.jpg) /[blog](https://www.cnblogs.com/Aidname)
